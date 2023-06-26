@@ -1,5 +1,5 @@
 import test from "ava";
 
-test("Hello world!", (t) => {
+test("Hello world!!", (t) => {
     t.pass();
 });
